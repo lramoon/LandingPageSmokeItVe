@@ -1,6 +1,6 @@
-#Propuesta Web Realizada para somkeitve 😊
+# Propuesta Web Realizada para somkeitve 😊
 
-##Landing Page de una 1 hoja con video y efecto humo "Smoke" Realizado con css. 🎉😎
+## Landing Page de una 1 hoja con video y efecto humo "Smoke" Realizado con css. 🎉😎
 
 ## Requisitos 👀
 
